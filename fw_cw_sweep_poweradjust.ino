@@ -22,6 +22,8 @@
 //*************************************************************************************************************************
 // ATENÇÃO: se vc estiver utilizando o shield ROBOT 1.1, é necessário alterar a função read_lcd_buttons.
 
+//exemplo curso hardware IoT
+
 #include <LiquidCrystal.h>
 #include <EEPROM.h>
 #include <SPI.h>
